@@ -65,9 +65,9 @@ public class Main {
         System.out.println("Titular: " + conta1.getTitular());
         System.out.println("Saldo: " + conta1.getSaldo());
         System.out.println();
-        System.out.println("Titular: " + conta1.getTitular());
-        System.out.println("Saldo: " + conta1.getSaldo());
-
+        System.out.println("Titular: " + conta2.getTitular());
+        System.out.println("Saldo: " + conta2.getSaldo());
+        System.out.println();
         System.out.println("Total de contas criadas: " + getTotalContas());
 
     }
